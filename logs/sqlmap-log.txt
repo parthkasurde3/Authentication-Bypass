@@ -1,0 +1,5 @@
+[INFO] testing MySQL time-based blind SQLi...
+[INFO] GET parameter 'cat' appears vulnerable.
+[INFO] Injection point found: UNION + error-based + time-based
+[INFO] Dumping DB: users, table: credentials
+[INFO] Hashes cracked using dictionary mode.
